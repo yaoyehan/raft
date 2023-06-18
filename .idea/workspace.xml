@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d57cadc-18dd-471f-9d09-6a6602ea7c4a" name="默认变更列表" comment="ver 1.0&#10;勉强能跑起来，选不出leader">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRaft/JavaRaft.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRaft/src/main/java/com/nana77mi/RaftNodeBootStrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRaft/src/main/java/com/nana77mi/RaftNodeBootStrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raft_impl/Raft_impl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raft_impl/src/main/java/com/nana77mi/www/RaftNode/Network/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/Raft_impl/src/main/java/com/nana77mi/www/RaftNode/Network/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raft_impl/src/main/java/com/nana77mi/www/RaftNode/RaftNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Raft_impl/src/main/java/com/nana77mi/www/RaftNode/RaftNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ratis_impl/Ratis_impl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="maven-test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25kJCi7uISlarY3qHcrh0HgKtdg" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/IntelliJ IDEA/IdeaProjects/study",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.Server1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nana77mi.www.Server1" />
+      <module name="Raft_impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nana77mi.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nana77mi.www.Server2" />
+      <module name="Raft_impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nana77mi.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nana77mi.www.Server3" />
+      <module name="Raft_impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nana77mi.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nana77mi.www.Server4" />
+      <module name="Raft_impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nana77mi.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nana77mi.www.Server5" />
+      <module name="Raft_impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nana77mi.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3d57cadc-18dd-471f-9d09-6a6602ea7c4a" name="默认变更列表" comment="" />
+      <created>1646065024792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646065024792</updated>
+      <workItem from="1646065026514" duration="634000" />
+      <workItem from="1646065672300" duration="1710000" />
+      <workItem from="1646067415447" duration="547000" />
+      <workItem from="1646067978325" duration="43000" />
+      <workItem from="1646068023410" duration="1238000" />
+      <workItem from="1646237495143" duration="17623000" />
+      <workItem from="1646748839490" duration="1250000" />
+      <workItem from="1646757344788" duration="1455000" />
+      <workItem from="1646824527282" duration="23149000" />
+      <workItem from="1646881925871" duration="10061000" />
+      <workItem from="1686723944918" duration="6379000" />
+      <workItem from="1686804755790" duration="1536000" />
+      <workItem from="1686893630581" duration="129000" />
+    </task>
+    <task id="LOCAL-00001" summary="ver0.1">
+      <created>1646065747790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646065747790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ver0.2">
+      <created>1646306012305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646306012305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ver 1.0&#10;勉强能跑起来，选不出leader">
+      <created>1646881984816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646881984816</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ver0.1" />
+    <MESSAGE value="ver0.2" />
+    <MESSAGE value="ver 1.0&#10;勉强能跑起来，选不出leader" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 1.0&#10;勉强能跑起来，选不出leader" />
+  </component>
+</project>
